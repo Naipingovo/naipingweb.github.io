@@ -1,0 +1,21 @@
+*{
+    user-select: none;
+}
+
+.main{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 5px solid red;
+    border-radius: 20px;
+    box-shadow: 0 0 20px red;
+}
+.font{
+    text-align: center;
+    color: red;
+}
+.font2{
+    font-size: 550%;
+    text-align: center;
+    color: red;
+}
