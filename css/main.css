@@ -1,0 +1,49 @@
+*{
+    user-select: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.main{
+    text-align: center;
+    margin: 3% auto;
+    width: 500px;
+    height: 700px;
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    border-radius: 10px;
+    box-shadow: 0 0 100px red;
+}
+
+.font{
+    padding: 5px;
+    color: red;
+    text-shadow: 0 0 5px yellow;
+}
+
+.font2{
+    color: red;
+    text-shadow: 0 0 5px yellow;
+    padding: 5px;
+}
+
+.font3{
+    color: red;
+    text-shadow: 0 0 5px yellow;
+    padding: 5px;
+}
+
+.imgs{
+    width: 300px;
+}
+
+.copy{
+    color: red;
+    text-shadow: 0 0 5px yellow;
+}
